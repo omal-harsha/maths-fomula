@@ -4,7 +4,7 @@ This is a Node.js web application built with the Express framework that calculat
 
 >(Data can be passed to a Node.js server using either URL **parameters** or request **body** data in JSON format.)
 
-##Features
+## Features
 
 Equations of motion
 
