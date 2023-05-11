@@ -8,7 +8,7 @@ Features
 
 Equations of motion
 
-* V =  U + at   -   /api/motion/velocity
+* V =  U + at   -   [/api/motion/velocity](https://maths-fomula.herokuapp.com/api/motion/velocity)
  ```javascript
  Ex: json format
  {
