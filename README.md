@@ -6,7 +6,7 @@ This is a Node.js web application built with the Express framework that calculat
 
 ## Features
 
-Equations of motion
+### 1. Equations of motion
 
 * V =  U + at   -   [/api/motion/velocity](https://maths-fomula.herokuapp.com/api/motion/velocity)
 
