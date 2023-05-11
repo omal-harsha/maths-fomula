@@ -2,9 +2,9 @@
 
 This is a Node.js web application built with the Express framework that calculates various mathematical formulas based on user input. The app is deployed on Heroku and can be accessed at https://maths-fomula.herokuapp.com/
 
-(Data can be passed to a Node.js server using either URL **parameters** or request **body** data in JSON format.)
+>(Data can be passed to a Node.js server using either URL **parameters** or request **body** data in JSON format.)
 
-Features
+##Features
 
 Equations of motion
 
