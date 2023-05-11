@@ -24,4 +24,4 @@ Ex: json format
  ```
  2. s = ((u + v) / 2) * t     -   [/api/motion/distance](https://maths-fomula.herokuapp.com/api/motion/distance)
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
