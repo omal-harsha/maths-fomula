@@ -22,3 +22,4 @@ Ex: json format
  ```
  /api/motion/velocity?u=10&a=10&t=10
  ```
+ * s = ((u + v) / 2) * t     -   [/api/motion/distance](https://maths-fomula.herokuapp.com/api/motion/distance)
