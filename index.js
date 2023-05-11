@@ -1,15 +1,11 @@
 import express from "express"
 const app = express()
+app.use(express.json())
 
 app.get("/api", (req,res) => {
 
-    res.json({
-        "users" : [
-            "userone",
-            "usertwo",
-            "userThree"
-        ]
-    })
+    const sum = req.body.first + req.body.second
+    res.json("total is " + sum)
 })
 
 app.listen(process.env.PORT || 5000, () => {
