@@ -8,7 +8,7 @@ Features
 
 Equations of motion
 
-* V =  U + at
+* V =  U + at   -   /api/motion/velocity
  ```javascript
  Ex: json format
  {
